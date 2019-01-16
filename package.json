@@ -1,0 +1,20 @@
+{
+    "name": "electronautoupdate",
+    "version": "0.2.0",
+    "author": "GESCO",
+    "homepage": "./",
+    "description": "An example of an autoupdating electron app",
+    "repository": "https://github.com/rahulbari/ElectronUpdates",
+    "main": "electron.js",
+    "dependencies": {
+        "electron-updater": "^4.0.6"
+    },
+    "scripts": {
+        "build": "build --win",
+        "ship": "build --win -p always"
+    },
+    "devDependencies": {
+        "electron": "^1.7.5",
+        "electron-builder": "^19.20.1"
+    }
+}
