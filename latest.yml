@@ -1,8 +1,8 @@
-version: 0.2.0
+version: 0.1.0
 files:
-  - url: electronautoupdate-setup-0.2.0.exe
-    sha512: Ez1ZtCdkFWypzvWVb3Rv1cgradzwSmQ5i6BpI3+SoCG1Xlkd2KmzdTwzmo9w/ojdM3U2B16VOKKBarwU1XZppQ==
-    size: 271191697
-path: electronautoupdate-setup-0.2.0.exe
-sha512: Ez1ZtCdkFWypzvWVb3Rv1cgradzwSmQ5i6BpI3+SoCG1Xlkd2KmzdTwzmo9w/ojdM3U2B16VOKKBarwU1XZppQ==
-releaseDate: '2019-01-16T08:42:34.203Z'
+  - url: electronautoupdate-setup-0.1.0.exe
+    sha512: TBhMdNepscjDYc7qtSW4TSKMK46J1S6yFObeEfACtYtOZi5L+Dr4bAHXPhSr/5K3mfiM1A6gXaYi9ZXFHu1KeQ==
+    size: 271183833
+path: electronautoupdate-setup-0.1.0.exe
+sha512: TBhMdNepscjDYc7qtSW4TSKMK46J1S6yFObeEfACtYtOZi5L+Dr4bAHXPhSr/5K3mfiM1A6gXaYi9ZXFHu1KeQ==
+releaseDate: '2019-01-16T10:16:15.007Z'

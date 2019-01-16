@@ -1,11 +1,24 @@
 {
     "name": "electronautoupdate",
-    "version": "0.3.0",
+    "version": "0.1.0",
     "author": "GESCO",
     "homepage": "./",
     "description": "An example of an autoupdating electron app",
     "repository": "https://github.com/rahulbari/ElectronUpdates",
     "main": "electron.js",
+    "build": {
+        "appId": "1",
+         
+        "directories": {
+            "buildResources": "assets"
+        },
+        "publish":{
+            "provider":"github",
+            "GH_TOKEN":"$$b4e7e165628a9c8b3da29e69be43c23b3554baf9$$"
+
+        }
+
+    },
     "dependencies": {
         "electron-updater": "^4.0.6"
     },
